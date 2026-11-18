@@ -1,0 +1,4 @@
+1.) Remove phone requirement from account sign-up
+2.) Add a password confirmation to the account sign-up.
+
+3.) Port the task changes over to the new repository.
