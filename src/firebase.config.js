@@ -6,13 +6,14 @@
 //  Never put a service-account key or any other secret in this repo.
 // ===========================================================================
 export const firebaseConfig = {
-  apiKey: 'AIzaSyARja5c57mFqr1piOVRLJ2A5CmvnMhtnY8',
-  authDomain: 'tasks-f16b8.firebaseapp.com',
-  projectId: 'tasks-f16b8',
-  storageBucket: 'tasks-f16b8.firebasestorage.app',
-  messagingSenderId: '1052926255830',
-  appId: '1:1052926255830:web:2b5fada8578cc5a2bf1f77',
+  apiKey: "AIzaSyBGgageQpBPrVpSY84_HczQNrRsCihGMPA",
+  authDomain: "tyler-many-hands.firebaseapp.com",
+  projectId: "tyler-many-hands",
+  storageBucket: "tyler-many-hands.firebasestorage.app",
+  messagingSenderId: "207529346582",
+  appId: "1:207529346582:web:f57ca4d3cac1b25dc3d737",
+  measurementId: "G-V7KJFM9G1H"
 };
 
 // Shown as a small label at the top of screens in the design. Change it to your group's name.
-export const COMMUNITY_NAME = 'Eastside Community Food Bank';
+export const COMMUNITY_NAME = 'Tyler Community';
